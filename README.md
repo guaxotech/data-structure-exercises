@@ -17,6 +17,7 @@ A curated collection of academic exercises demonstrating **core data structures 
 | **L7 – LinkedList – SinglyLinkedList_Advanced** | Singly Linked List (Advanced) | Specialized list problems: sorting, counting, merging, and interval operations. |
 | **L8 – DoublyLinkedList** | Doubly Linked List | Bidirectional list with previous/next navigation and element swapping. |
 | **L9 – DoublyLinkedList_Descriptor** | Doubly Linked List with Descriptor | Implementation using a descriptor node for size and boundary tracking. |
+| **L10 – Trees – BinaryTree** | Binary Tree | Implementation of a binary tree with recursive algorithms for insertion, traversal (in-order, pre-order, post-order), and search operations. |
 
 
 ---
